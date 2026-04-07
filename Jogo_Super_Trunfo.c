@@ -90,7 +90,7 @@ int main() {
          int criterio1, criterio2;
 
          printf("Digite o numero do criterio da primeira rodada: ");
-         scanf("%u", &criterio1);
+         scanf("%d", &criterio1);
          printf("\n");
 
          int resposta1, resposta2;
@@ -208,7 +208,7 @@ int main() {
          }
          printf("\n");
          printf("Digite o numero do critério da segunda rodada: ");
-         scanf("%u", &criterio2);
+         scanf("%d", &criterio2);
          printf("\n");
 
          if (criterio1 != criterio2)
