@@ -1,7 +1,7 @@
 # Projetos-Pessoais
 Repositório com minhas práticas individuais e experimentos em programação.
 
-## Aprimoramento de porjetos acadêmicos
+## Aprimoramento de projetos acadêmicos
 ### Jogo_Super_Trunfo.c<br>
   Projeto desenvolvido em linguagem C para praticar lógica de programação.
 
